@@ -1,0 +1,1304 @@
+{
+  "identifier" : "CMDKLTD",
+  "migrations" : [ {
+    "op" : "replace",
+    "path" : "/allAttributes/:130",
+    "value" : "IE_MOSTRA_TESOURARIA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:132",
+    "value" : "CD_ESTABELECIMENTO_BASE"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:134",
+    "value" : "DT_ATUALIZACAO_NREC"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:135",
+    "value" : "IE_EPIMED"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:136",
+    "value" : "NR_SEQ_REGRA_CUSTO_COPIA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:137",
+    "value" : "CD_CENTRO_CUSTO_GRID"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:138",
+    "value" : "CD_CENTRO_CUSTO_REC_GRID"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:139",
+    "value" : "DT_LIMITE_ATENDIMENTO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:140",
+    "value" : "DT_LIMITE_MEDICO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:141",
+    "value" : "QT_TEMPO_ALTA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:142",
+    "value" : "IE_PERMITE_ALTA_MEDICA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:143",
+    "value" : "NR_DDI_TELEFONE"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:144",
+    "value" : "NR_SEQ_SCORE_FLEX_CA1"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:145",
+    "value" : "NR_SEQ_SCORE_FLEX_CA2"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:146",
+    "value" : "NR_SEQ_SCORE_FLEX_CA3"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:147",
+    "value" : "NR_SEQ_SCORE_FLEX_CA4"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:148",
+    "value" : "IE_TRANSF_ATEND_LOTE"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:149",
+    "value" : "NR_SEQ_SCORE_FLEX_II"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:41",
+    "value" : "DS_DESC"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:42",
+    "value" : "IE_CONTA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:43",
+    "value" : "DS_OBSERVACAO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:44",
+    "value" : "IE_CIH"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:45",
+    "value" : "IE_ESTERILIZACAO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:46",
+    "value" : "IE_PROCESSO_ALTA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:47",
+    "value" : "IE_PERMITE_PRESCRICAO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:48",
+    "value" : "IE_GERAR_KIT_PROCED"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:49",
+    "value" : "IE_GERAR_KIT"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:151",
+    "value" : "QT_AREA_SETOR"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:152",
+    "value" : "DS_SETOR_CUSTO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:153",
+    "value" : "CD_SETOR_CUSTO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:154",
+    "value" : "HR_ESTENDER_VALIDADE_SAE"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:155",
+    "value" : "NM_USUARIO_NREC"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:156",
+    "value" : "DS_CLASSIF_NISS"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:157",
+    "value" : "DS_CENTRO_CUSTO_RECEITA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:158",
+    "value" : "NR_COMUNIC_INTERNA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:159",
+    "value" : "CD_ESTABELECIMENTO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:50",
+    "value" : "IE_GERAR_RECONSTITUICAO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:51",
+    "value" : "IE_MOSTRA_SETOR_FICHA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:52",
+    "value" : "IE_PROPRIO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:53",
+    "value" : "IE_SETOR_ROTHMAN"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:54",
+    "value" : "IE_ENFERMAGEM_FARM"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:55",
+    "value" : "IE_VERIFICA_SE_GV"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:56",
+    "value" : "IE_GERAR_LOTE"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:57",
+    "value" : "IE_STATUS_ACOMODADO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:58",
+    "value" : "IE_GERAR_DILUICAO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:59",
+    "value" : "IE_PERMITE_ATEND_LOTE"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:160",
+    "value" : "DT_ATUALIZACAO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:161",
+    "value" : "NM_USUARIO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:162",
+    "value" : "DT_INATIVACAO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:163",
+    "value" : "IE_GERAR_LOTE_AGORA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:164",
+    "value" : "DS_CENTRO_CUSTO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:165",
+    "value" : "IE_CLOSE_LAST_MOVEMENT"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:166",
+    "value" : "IE_SEMI_INTENSIVA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:167",
+    "value" : "IE_MOSTRA_LOCAL_EXECUCAO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:168",
+    "value" : "IE_LOCAL_COLETA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:169",
+    "value" : "IE_MOSTRA_LOCAL_RECEBIMENTO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:60",
+    "value" : "IE_CHECKUP"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:61",
+    "value" : "IE_MOSTRA_GESTAO_DISP"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:62",
+    "value" : "IE_MOSTRA_GESTAO_NUTRICAO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:64",
+    "value" : "IE_RPA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:66",
+    "value" : "IE_SETOR_PADRAO_RN"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:67",
+    "value" : "IE_DIA_SEGUINTE"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:68",
+    "value" : "IE_CONSISTE_REP"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:69",
+    "value" : "IE_GERA_ASSOCIADO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:170",
+    "value" : "NR_UNIT_TL_CAPACITY"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:171",
+    "value" : "IE_HCU"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:70",
+    "value" : "IE_SETOR_RN"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:71",
+    "value" : "IE_MOBILIDADE_RED_TEV"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:72",
+    "value" : "IE_SETOR_DEST_AGENDA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:73",
+    "value" : "IE_PERMITE_ALTA_PEND"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:74",
+    "value" : "IE_SETOR_ORIG_AGENDA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:75",
+    "value" : "IE_SETOR_LIB_LOCAL"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:76",
+    "value" : "IE_CONSISTE_DOSE_REP"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:77",
+    "value" : "IE_PACIENTE_ARVORE_PEP"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:78",
+    "value" : "IE_VIPE"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:79",
+    "value" : "IE_LOC_PEP"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:100",
+    "value" : "QT_IDADE_MIN_VISITANTE"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:101",
+    "value" : "QT_IDADE_MAX_VISITANTE"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:102",
+    "value" : "QT_MIN_PHILIPS"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:103",
+    "value" : "QT_IDADE_MIN_ACOMP"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:104",
+    "value" : "QT_IDADE_MAX_ACOMP"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:105",
+    "value" : "QT_TEMPO_PASSAGEM"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:106",
+    "value" : "NR_SEQ_GRUPO_EQUIP_CA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:80",
+    "value" : "IE_PROCESSO_GEDIPA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:107",
+    "value" : "IE_TIPO_EVOLUCAO_SAIDA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:81",
+    "value" : "IE_ARVORE_PEP"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:108",
+    "value" : "IE_SUSP_REP_TRANSF"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:82",
+    "value" : "IE_VINC_PROC_MAT_BARRAS"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:109",
+    "value" : "IE_SETAR_HOR_REP"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:83",
+    "value" : "IE_ESTENDER_VALIDADE"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:84",
+    "value" : "IE_PERMITE_ACM"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:85",
+    "value" : "IE_CONTROLA_MEWS"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:87",
+    "value" : "IE_MOSTRA_PACIENTE"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:88",
+    "value" : "IE_CURATIVO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:89",
+    "value" : "IE_TRAT_ONCOLOGICO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:110",
+    "value" : "IE_SETOR_IMPRIME"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:111",
+    "value" : "IE_PERMITE_PROC_DUPL"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:112",
+    "value" : "IE_IMPRIMIR_REP"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:113",
+    "value" : "IE_ABRIR_ROTINA_REP"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:114",
+    "value" : "IE_EXIGE_PF_DEST_PROT_DOC"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:115",
+    "value" : "IE_AGRUPAR_REP_DIA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:116",
+    "value" : "IE_RN_MAE"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:90",
+    "value" : "IE_CONTROLA_STATUS"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:117",
+    "value" : "IE_GERA_FICHA_OCORRENCIA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:91",
+    "value" : "IE_PERMITE_SETOR_RECEPTOR_NC"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:118",
+    "value" : "IE_PERMITE_ALTA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:92",
+    "value" : "IE_MOSTRA_GESTAO_VAGA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:119",
+    "value" : "IE_PERMITE_PASSAGEM_SETOR"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:93",
+    "value" : "NR_SEQ_UNIDADE_RN"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:94",
+    "value" : "NM_PEP"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:95",
+    "value" : "QT_MINUTO_MAX"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:96",
+    "value" : "QT_MIN_GEDIPA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:97",
+    "value" : "CD_SETOR_EXTERNO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:98",
+    "value" : "NR_ORDEM_IMP_LOTE"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:99",
+    "value" : "IE_MINUTOS_REP"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:120",
+    "value" : "IE_PERMITE_MODELO_PEPO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:121",
+    "value" : "IE_MOSTRA_PERT_PACIENTE"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:122",
+    "value" : "IE_SETOR_NEONATAL"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:123",
+    "value" : "IE_TRAT_CONTA_RN"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:124",
+    "value" : "IE_APROVACAO_SINAL_VITAL"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:125",
+    "value" : "DS_LOCAL_ESTOQUE"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:126",
+    "value" : "DS_ANDAR"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:127",
+    "value" : "DS_SETOR_COMPLETO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:128",
+    "value" : "NM_PESSOA_RESP"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:129",
+    "value" : "DS_BLOCO"
+  }, {
+    "op" : "add",
+    "path" : "/allAttributes/:172",
+    "value" : "IE_AREA_DE_ALTA"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156180/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156182/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156181/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156218/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156217/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156219/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156214/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156213/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156216/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156215/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:684156177/label"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156177/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156210/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156176/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:684156212/label"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156212/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156179/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156178/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156211/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:684156173/label"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156173/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156172/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156175/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156174/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156171/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156170/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156207/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156206/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156209/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156208/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:684156203/label"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156203/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156169/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156202/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156205/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156204/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156166/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:684156165/label"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156165/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156168/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156201/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:684156167/label"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156167/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156200/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156162/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156161/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156161/nmTabelaRef",
+    "value" : "UNIDADE_ATENDIMENTO"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156164/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:684156163/label"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156163/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156119/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156239/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156118/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156115/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156236/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156114/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:684156235/label"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156235/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156117/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156238/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156237/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156116/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156232/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156111/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:684156199/label"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156199/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156231/logOptions/logUpdates",
+    "value" : "S"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156110/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156198/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156234/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156113/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156112/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156112/nmAtributoCd",
+    "value" : "CD_PESSOA_FISICA"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156112/nmAtributoDs",
+    "value" : "NM_PESSOA_FISICA"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156112/nmTabelaRef",
+    "value" : "PESSOA_FISICA"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156233/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156195/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156194/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156230/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156197/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:684156196/label"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156196/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156191/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156190/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156193/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156192/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156108/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156229/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156107/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156228/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156109/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156104/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156225/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156103/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156224/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156227/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156106/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156226/logOptions/logUpdates",
+    "value" : "D"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156105/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156188/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156100/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156221/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156187/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156220/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156223/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156102/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156189/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156222/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156101/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156184/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156183/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156186/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156185/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156258/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156137/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156257/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156136/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156139/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156259/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156138/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156133/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156254/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156253/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156132/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156099/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156135/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156256/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156134/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156255/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156250/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156252/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156131/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156130/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156251/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156129/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:684156126/label"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156126/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156247/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156125/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156246/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156128/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:684156249/label"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156249/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:684156127/label"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156127/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156248/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:684156243/label"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156243/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156122/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156121/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156242/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:684156124/label"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156124/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156245/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156123/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156244/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156120/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156241/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156240/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156160/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156159/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156158/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156155/logOptions/logUpdates",
+    "value" : "D"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156154/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156157/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156156/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156151/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156150/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156153/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156152/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156270/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156148/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156269/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156147/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156268/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156149/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156144/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156265/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156143/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156264/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156267/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156146/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156266/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156145/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156261/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156140/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156260/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156142/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156263/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156141/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:684156262/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:222562301",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 222562301,
+      "componente" : "TEXTBOX",
+      "criarDescFk" : false,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "DE",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "TRADUÇÃO CUSTOM DE EXP CORE",
+      "gridLabelExpressionCode" : 1,
+      "gridSequence" : 14,
+      "hiddenByUser" : false,
+      "ieCustomAttribute" : true,
+      "ieInfoPatient" : false,
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "TRADUÇÃO CUSTOM DE EXP CORE",
+      "labelExpressionCode" : 1,
+      "largura" : 2,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : { },
+      "mandatory" : false,
+      "nmAtributo" : "DS_DESC",
+      "nmAtributoPai" : [ ],
+      "nmAttributeTableRef" : [ "C_CD_SETOR_ATENDIMENTO" ],
+      "nmTableRef" : "CMDKLTD_SETATEN_62",
+      "options" : [ ],
+      "ordem" : 99,
+      "primaryKey" : false,
+      "qtLargura" : 250,
+      "readOnly" : false,
+      "sensitive" : false,
+      "tabStop" : false,
+      "tipoAtributo" : "VARCHAR2"
+    }
+  }, {
+    "op" : "remove",
+    "path" : "/signatureValues"
+  } ],
+  "type" : "PARTNER"
+}
